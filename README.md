@@ -8,3 +8,4 @@ Diffuser is designed with 0.2mm tolerance and designed to be slid in before bein
 Credit to https://github.com/bartlammers Bart Lammers for awesome LED stick design!! 
 
 Do with these as you will, enjoy!!
+![image](https://github.com/MugenMicko/DaylightDiscoRainbow-Stick-Mounts/assets/105763933/f0a93d08-b0d8-4c2d-a7ef-237ab3e3708c)
